@@ -1,5 +1,5 @@
 # riset-ayrshare-api
-ini adalah repo riset
+ini adalah repo riset ayrshare api - api untuk sosial media share
 
 # Hal Penting
 ```
